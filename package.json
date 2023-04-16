@@ -1,0 +1,12 @@
+{
+  "name": "typescript-starter-generator",
+  "version": "1.0.0",
+  "description": "Plop.js script to create typescript projects from scratch",
+  "main": "plopfile.js",
+  "author": "Ahpex",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "plop": "^3.1.2"
+  }
+}
